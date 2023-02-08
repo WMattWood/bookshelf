@@ -7,4 +7,4 @@
 
 <h3 align="left"> Recommendations I have received </h3>
 
-&nbsp; 📚 &nbsp; "Design Patterns: Elements of Reusable Object-Oriented Software 1st Edition" by The Gang of Four \
+&nbsp; 📚 &nbsp; "Design Patterns: Elements of Reusable Object-Oriented Software 1st Edition" by The Gang of Four
